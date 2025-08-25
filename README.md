@@ -1,0 +1,3 @@
+#One Interpreter to rule them all...--> I created three programming languages here anna programming language alex programming language and rosa programming language for three totally different people yet adorable..here we go
+#The Interpreter works like this: open the command prompt on your pc then run from the file location the program is stored: python Beauty.py anna  OR python Beauty.py alex OR python Beauty.py rosa
+#Then it will show you a --repl where you can type either  :help OR :examples OR :quit for exit...if you type :examples it will be easier to print at least a hello world program...yet there will be more examples to come...Hope you are all fine!:)
